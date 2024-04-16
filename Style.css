@@ -1,0 +1,36 @@
+
+
+body{
+    background-image: url(images/bacround.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    background-position: center;
+}
+
+.color{
+    background-color: bisque;
+    border-radius: 5px;
+    padding: 10px;
+   
+}
+ 
+.diiv{
+    width: 50%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/caisierre2.jpeg);
+    height: 450px;
+}
+.pied-de-page{
+    background-color: rgba(247, 7, 7, 0.5);
+}
+.bordure{
+    width: 60%;
+    padding: 5px;
+}
+#black{
+    background-color: rgb(1, 1, 1, 0.7);
+  
+}

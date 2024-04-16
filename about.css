@@ -1,0 +1,29 @@
+body{
+    background-image: url(images/bacround.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+main{
+    width: 60%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/salle.jpeg);
+    background-position: center;
+    background-position: center;
+    height: 300px;
+}
+footer{
+    margin-top: 145px;
+}
+#black{
+    background-color: rgb(1, 1, 1, 0.7);
+  
+}
+
+@media screen and (max-width:800px) {
+    main{
+        font-size: 10px;
+    }
+}
